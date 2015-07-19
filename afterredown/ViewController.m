@@ -15,6 +15,9 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
+    
+    NSLog(@"我擦");
+    
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
